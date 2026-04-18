@@ -34,3 +34,6 @@ lib/sqlite-jdbc.jar
 ```
 
 This workspace already has the driver downloaded in `lib/sqlite-jdbc.jar`.
+
+## Screenshot
+![Alt text](screenshot.png)
