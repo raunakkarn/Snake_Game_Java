@@ -1,5 +1,4 @@
 package com.heisenberg.snake;
-
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.HashMap;
